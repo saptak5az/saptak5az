@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @saptak5az
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
